@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+
+
+<HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.arba.checkers.ui.BattleField">
+    <children>
+        <GridPane fx:id="gameBoard" gridLinesVisible="true" HBox.hgrow="ALWAYS"/>
+    </children>
+</HBox>
